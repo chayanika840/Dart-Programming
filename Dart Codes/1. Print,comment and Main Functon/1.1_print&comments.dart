@@ -18,6 +18,6 @@ void main()
           /* This is the 
           way of writing 
           multi line comment */
-       print("Chayanika")
+      
 
        }
